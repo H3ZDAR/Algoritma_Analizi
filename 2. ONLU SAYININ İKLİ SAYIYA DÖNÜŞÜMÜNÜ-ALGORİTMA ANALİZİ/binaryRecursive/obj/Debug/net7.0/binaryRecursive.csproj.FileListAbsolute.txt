@@ -1,0 +1,15 @@
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryRecursive\bin\Debug\net7.0\binaryRecursive.exe
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryRecursive\bin\Debug\net7.0\binaryRecursive.deps.json
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryRecursive\bin\Debug\net7.0\binaryRecursive.runtimeconfig.json
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryRecursive\bin\Debug\net7.0\binaryRecursive.dll
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryRecursive\bin\Debug\net7.0\binaryRecursive.pdb
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryRecursive\obj\Debug\net7.0\binaryRecursive.csproj.AssemblyReference.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryRecursive\obj\Debug\net7.0\binaryRecursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryRecursive\obj\Debug\net7.0\binaryRecursive.AssemblyInfoInputs.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryRecursive\obj\Debug\net7.0\binaryRecursive.AssemblyInfo.cs
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryRecursive\obj\Debug\net7.0\binaryRecursive.csproj.CoreCompileInputs.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryRecursive\obj\Debug\net7.0\binaryRecursive.dll
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryRecursive\obj\Debug\net7.0\refint\binaryRecursive.dll
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryRecursive\obj\Debug\net7.0\binaryRecursive.pdb
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryRecursive\obj\Debug\net7.0\binaryRecursive.genruntimeconfig.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryRecursive\obj\Debug\net7.0\ref\binaryRecursive.dll

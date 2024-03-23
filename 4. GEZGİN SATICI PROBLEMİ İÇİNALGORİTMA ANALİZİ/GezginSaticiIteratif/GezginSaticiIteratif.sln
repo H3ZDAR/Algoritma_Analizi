@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GezginSaticiIteratif", "GezginSaticiIteratif.csproj", "{5624AC61-0091-47A4-8EDC-43B3288AB8D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5624AC61-0091-47A4-8EDC-43B3288AB8D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5624AC61-0091-47A4-8EDC-43B3288AB8D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5624AC61-0091-47A4-8EDC-43B3288AB8D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5624AC61-0091-47A4-8EDC-43B3288AB8D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {83B13FA5-6825-4AC7-9C14-4F4D0F90E591}
+	EndGlobalSection
+EndGlobal

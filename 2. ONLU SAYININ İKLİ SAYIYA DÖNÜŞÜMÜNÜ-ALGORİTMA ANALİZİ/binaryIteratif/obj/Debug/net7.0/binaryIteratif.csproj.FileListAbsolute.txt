@@ -1,0 +1,15 @@
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryIteratif\obj\Debug\net7.0\binaryIteratif.csproj.AssemblyReference.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryIteratif\obj\Debug\net7.0\binaryIteratif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryIteratif\obj\Debug\net7.0\binaryIteratif.AssemblyInfoInputs.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryIteratif\obj\Debug\net7.0\binaryIteratif.AssemblyInfo.cs
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryIteratif\obj\Debug\net7.0\binaryIteratif.csproj.CoreCompileInputs.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryIteratif\bin\Debug\net7.0\binaryIteratif.exe
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryIteratif\bin\Debug\net7.0\binaryIteratif.deps.json
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryIteratif\bin\Debug\net7.0\binaryIteratif.runtimeconfig.json
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryIteratif\bin\Debug\net7.0\binaryIteratif.dll
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryIteratif\bin\Debug\net7.0\binaryIteratif.pdb
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryIteratif\obj\Debug\net7.0\binaryIteratif.dll
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryIteratif\obj\Debug\net7.0\refint\binaryIteratif.dll
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryIteratif\obj\Debug\net7.0\binaryIteratif.pdb
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryIteratif\obj\Debug\net7.0\binaryIteratif.genruntimeconfig.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev2\binaryIteratif\obj\Debug\net7.0\ref\binaryIteratif.dll

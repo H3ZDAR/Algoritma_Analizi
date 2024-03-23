@@ -1,0 +1,15 @@
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev5\faktoryelRecursive\bin\Debug\net7.0\faktoryelRecursive.exe
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev5\faktoryelRecursive\bin\Debug\net7.0\faktoryelRecursive.deps.json
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev5\faktoryelRecursive\bin\Debug\net7.0\faktoryelRecursive.runtimeconfig.json
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev5\faktoryelRecursive\bin\Debug\net7.0\faktoryelRecursive.dll
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev5\faktoryelRecursive\bin\Debug\net7.0\faktoryelRecursive.pdb
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev5\faktoryelRecursive\obj\Debug\net7.0\faktoryelRecursive.csproj.AssemblyReference.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev5\faktoryelRecursive\obj\Debug\net7.0\faktoryelRecursive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev5\faktoryelRecursive\obj\Debug\net7.0\faktoryelRecursive.AssemblyInfoInputs.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev5\faktoryelRecursive\obj\Debug\net7.0\faktoryelRecursive.AssemblyInfo.cs
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev5\faktoryelRecursive\obj\Debug\net7.0\faktoryelRecursive.csproj.CoreCompileInputs.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev5\faktoryelRecursive\obj\Debug\net7.0\faktoryelRecursive.dll
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev5\faktoryelRecursive\obj\Debug\net7.0\refint\faktoryelRecursive.dll
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev5\faktoryelRecursive\obj\Debug\net7.0\faktoryelRecursive.pdb
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev5\faktoryelRecursive\obj\Debug\net7.0\faktoryelRecursive.genruntimeconfig.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev5\faktoryelRecursive\obj\Debug\net7.0\ref\faktoryelRecursive.dll

@@ -1,0 +1,15 @@
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev1\EnbuyuksayiIteratif\bin\Debug\net7.0\EnbuyuksayiIteratif.exe
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev1\EnbuyuksayiIteratif\bin\Debug\net7.0\EnbuyuksayiIteratif.deps.json
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev1\EnbuyuksayiIteratif\bin\Debug\net7.0\EnbuyuksayiIteratif.runtimeconfig.json
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev1\EnbuyuksayiIteratif\bin\Debug\net7.0\EnbuyuksayiIteratif.dll
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev1\EnbuyuksayiIteratif\bin\Debug\net7.0\EnbuyuksayiIteratif.pdb
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev1\EnbuyuksayiIteratif\obj\Debug\net7.0\EnbuyuksayiIteratif.csproj.AssemblyReference.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev1\EnbuyuksayiIteratif\obj\Debug\net7.0\EnbuyuksayiIteratif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev1\EnbuyuksayiIteratif\obj\Debug\net7.0\EnbuyuksayiIteratif.AssemblyInfoInputs.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev1\EnbuyuksayiIteratif\obj\Debug\net7.0\EnbuyuksayiIteratif.AssemblyInfo.cs
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev1\EnbuyuksayiIteratif\obj\Debug\net7.0\EnbuyuksayiIteratif.csproj.CoreCompileInputs.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev1\EnbuyuksayiIteratif\obj\Debug\net7.0\EnbuyuksayiIteratif.dll
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev1\EnbuyuksayiIteratif\obj\Debug\net7.0\refint\EnbuyuksayiIteratif.dll
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev1\EnbuyuksayiIteratif\obj\Debug\net7.0\EnbuyuksayiIteratif.pdb
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev1\EnbuyuksayiIteratif\obj\Debug\net7.0\EnbuyuksayiIteratif.genruntimeconfig.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\Ödev1\EnbuyuksayiIteratif\obj\Debug\net7.0\ref\EnbuyuksayiIteratif.dll

@@ -1,0 +1,8 @@
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\EnKazancliAlgoritma\EnkazancliAlgoritma\bin\Debug\EnkazancliAlgoritma.exe.config
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\EnKazancliAlgoritma\EnkazancliAlgoritma\bin\Debug\EnkazancliAlgoritma.exe
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\EnKazancliAlgoritma\EnkazancliAlgoritma\bin\Debug\EnkazancliAlgoritma.pdb
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\EnKazancliAlgoritma\EnkazancliAlgoritma\obj\Debug\EnkazancliAlgoritma.csproj.AssemblyReference.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\EnKazancliAlgoritma\EnkazancliAlgoritma\obj\Debug\EnkazancliAlgoritma.csproj.SuggestedBindingRedirects.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\EnKazancliAlgoritma\EnkazancliAlgoritma\obj\Debug\EnkazancliAlgoritma.csproj.CoreCompileInputs.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\EnKazancliAlgoritma\EnkazancliAlgoritma\obj\Debug\EnkazancliAlgoritma.exe
+C:\Users\XeRo\Desktop\yükseklisans derslwri\yeni ödevler\EnKazancliAlgoritma\EnkazancliAlgoritma\obj\Debug\EnkazancliAlgoritma.pdb

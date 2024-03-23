@@ -1,0 +1,15 @@
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiIteratif\bin\Debug\net7.0\GezginSaticiIteratif.exe
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiIteratif\bin\Debug\net7.0\GezginSaticiIteratif.deps.json
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiIteratif\bin\Debug\net7.0\GezginSaticiIteratif.runtimeconfig.json
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiIteratif\bin\Debug\net7.0\GezginSaticiIteratif.dll
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiIteratif\bin\Debug\net7.0\GezginSaticiIteratif.pdb
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiIteratif\obj\Debug\net7.0\GezginSaticiIteratif.csproj.AssemblyReference.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiIteratif\obj\Debug\net7.0\GezginSaticiIteratif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiIteratif\obj\Debug\net7.0\GezginSaticiIteratif.AssemblyInfoInputs.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiIteratif\obj\Debug\net7.0\GezginSaticiIteratif.AssemblyInfo.cs
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiIteratif\obj\Debug\net7.0\GezginSaticiIteratif.csproj.CoreCompileInputs.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiIteratif\obj\Debug\net7.0\GezginSaticiIteratif.dll
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiIteratif\obj\Debug\net7.0\refint\GezginSaticiIteratif.dll
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiIteratif\obj\Debug\net7.0\GezginSaticiIteratif.pdb
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiIteratif\obj\Debug\net7.0\GezginSaticiIteratif.genruntimeconfig.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiIteratif\obj\Debug\net7.0\ref\GezginSaticiIteratif.dll

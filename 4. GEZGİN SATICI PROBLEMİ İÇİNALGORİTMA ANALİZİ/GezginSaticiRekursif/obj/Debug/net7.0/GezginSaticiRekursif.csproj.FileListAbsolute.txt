@@ -1,0 +1,15 @@
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiRekursif\obj\Debug\net7.0\GezginSaticiRekursif.csproj.AssemblyReference.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiRekursif\obj\Debug\net7.0\GezginSaticiRekursif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiRekursif\obj\Debug\net7.0\GezginSaticiRekursif.AssemblyInfoInputs.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiRekursif\obj\Debug\net7.0\GezginSaticiRekursif.AssemblyInfo.cs
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiRekursif\obj\Debug\net7.0\GezginSaticiRekursif.csproj.CoreCompileInputs.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiRekursif\bin\Debug\net7.0\GezginSaticiRekursif.exe
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiRekursif\bin\Debug\net7.0\GezginSaticiRekursif.deps.json
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiRekursif\bin\Debug\net7.0\GezginSaticiRekursif.runtimeconfig.json
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiRekursif\bin\Debug\net7.0\GezginSaticiRekursif.dll
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiRekursif\bin\Debug\net7.0\GezginSaticiRekursif.pdb
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiRekursif\obj\Debug\net7.0\GezginSaticiRekursif.dll
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiRekursif\obj\Debug\net7.0\refint\GezginSaticiRekursif.dll
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiRekursif\obj\Debug\net7.0\GezginSaticiRekursif.pdb
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiRekursif\obj\Debug\net7.0\GezginSaticiRekursif.genruntimeconfig.cache
+C:\Users\XeRo\Desktop\yükseklisans derslwri\ALGORİTMA ANALİZİ-ÖDEV\ALGORİTMA ANALİZİ-ÖDEV 4\GezginSaticiRekursif\obj\Debug\net7.0\ref\GezginSaticiRekursif.dll
